@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lf4WmFo5DenMKRxHqY96qoXa0fqF7EOZmUS3Oz9X1k+hxYUVfPhkibhByc+kIZpof0ud/4GIsl79gr4ayEwkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vignesh Rayanki\\Downloads\\100.+Code (3)\\100. Code\\17. Lab - Azure Pipelines - Azure Web App - Connection string\\sqlapp\\sqlapp\\sqlapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vignesh Rayanki\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
